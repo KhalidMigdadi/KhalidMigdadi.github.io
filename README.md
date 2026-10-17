@@ -1,3 +1,3 @@
 # Portfolio
-=======
+
 # KhalidMigdadi.github.io
